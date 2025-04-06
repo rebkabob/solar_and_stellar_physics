@@ -8,3 +8,15 @@
 | **Viewing angle**, $\mu$                                       | 0.87                                     |
 | **Time steps**                                                 | 57                                       |
 | **Cadence**                                                    | 40 s                                     |
+
+<p align="center"> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4" 
+</p> 
+
+<p align="center"> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.mp4" 
+</p> 
+
+<p align="center"> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.mp4" 
+</p> 
