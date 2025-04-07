@@ -14,5 +14,5 @@
 </p> 
 
 <p align="center"> 
-<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.gif" width="420"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.gif" width="420"/> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.gif" width="400"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.gif" width="400"/> 
 </p> 
