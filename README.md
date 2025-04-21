@@ -15,9 +15,11 @@ Both subfields covers a physical extent of 4.988" x 4.988".
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.gif" 
 </p> 
+Movie in .mp4 format can be found [here](https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4).
 
 
 Doppler maps for subfield A [left panel] and subfield B [right panel].
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.gif" width="400"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.gif" width="400"/> 
 </p> 
+Movie in .mp4 format of subfield A can be found [here](https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.mp4) and subfield B can be found [here](https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.mp4)
