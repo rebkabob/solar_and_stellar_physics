@@ -15,7 +15,7 @@ Both subfields covers a physical extent of 4.988" x 4.988".
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.gif" 
 </p> 
-Movie in .mp4 format can be found at [movie](https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4)
+Movie in .mp4 format can be found at https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4
 
 
 Doppler maps for subfield A [left panel] and subfield B [right panel].
