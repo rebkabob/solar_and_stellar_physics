@@ -34,8 +34,7 @@ ew_cube_A = np.load("ew_cube_A.npy")
 ew_cube_B = np.load("ew_cube_B.npy")
 
 data = subfield_A
-# for t in range(time.size):
-for t in range(2):
+for t in range(time.size):
     fig, ax = plt.subplots(figsize = (8, 6))
     print(f"Time step: {t}")
     for x_idx in range(data.shape[3]):
