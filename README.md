@@ -10,13 +10,13 @@
 | **Cadence**                                                    | 40 s                                     |
 
 
-Intensity maps of the target sunspot. The full FOV [left panel] covers 29.638" x 29.638". Subfield A [middle panel] is located outside the sunspot with visible granulation pattern, whilst subfield B [right panel] is located in the sunspot penumbra.
-Both subfields covers a physical extent of 4.988" x 4.988". 
+Intensity maps of the target sunspot. The full FOV [left panel] covers 29.638" x 29.638". Subfield A [middle panel] is located outside the sunspot with visible granulation pattern, whilst subfield B [right panel] is located in the sunspot penumbra. The physical extent of both subfields is 4.988" x 4.988". 
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.gif" 
 </p> 
-Movie in .mp4 format can be found at https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4
+Movie in .mp4 format can be found [here][1].
 
+[1]: https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_subfields/intensity_FOV_A_B.mp4
 
 Doppler maps for subfield A [left panel] and subfield B [right panel].
 <p align="center"> 
