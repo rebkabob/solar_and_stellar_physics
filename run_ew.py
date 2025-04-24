@@ -42,7 +42,24 @@ for t in range(time.size):
             print(f"Pixel ({x_idx}, {y_idx})")
             ax.scatter(ew_cube_A[t, y_idx, x_idx], doppler_cube_A[t, y_idx, x_idx], alpha = .1, color = "hotpink")
 
-    ax.set_title(f't[{t}]={time_s[t]} s')
+    ax.set_title(f't[{t}]={time_s[t]: .3f} s')
     ax.set_xlabel("Equivalent width [m$\AA$]")
     ax.set_ylabel("Doppler velocity [km/s]")
+    ax.set_xlim(np.min(ew_cube_A), np.max(ew_cube_A))
+    ax.set_ylim(np.min(doppler_cube_A), np.max(doppler_cube_A))
     plt.savefig(f"figures/ew_doppler_A/ew_doppler_A_{t:04d}.png")
+
+for t in range(time.size):
+    fig, ax = plt.subplots(figsize = (8, 6))
+    print(f"Time step: {t}")
+    for x_idx in range(data.shape[3]):
+        for y_idx in range(data.shape[2]):
+            print(f"Pixel ({x_idx}, {y_idx})")
+            ax.scatter(ew_cube_B[t, y_idx, x_idx], doppler_cube_B[t, y_idx, x_idx], alpha = .1, color = "hotpink")
+
+    ax.set_title(f't[{t}]={time_s[t]: .3f} s')
+    ax.set_xlabel("Equivalent width [m$\AA$]")
+    ax.set_ylabel("Doppler velocity [km/s]")
+    ax.set_xlim(np.min(ew_cube_B), np.max(ew_cube_B))
+    ax.set_ylim(np.min(doppler_cube_B), np.max(doppler_cube_B))
+    plt.savefig(f"figures/ew_doppler_B/ew_doppler_B_{t:04d}.png")
