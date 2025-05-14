@@ -26,6 +26,6 @@ Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and
 
 
 <p align="center"> 
-<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_A/ew_doppler_mask_A.gif" width="400"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_B/ew_doppler_mask_B.gif" width="400"/> 
-<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_C/ew_doppler_C.gif" width="400"/> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_A/ew_doppler_mask_A.gif" width="300"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_B/ew_doppler_mask_B.gif" width="300"/> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_C/ew_doppler_C.gif" width="300"/> 
 </p> 
