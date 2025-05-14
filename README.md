@@ -20,7 +20,7 @@ Intensity maps of the target sunspot. The full FOV [left panel] covers 29.638" x
 Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and subfield C [right panel].
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_A/doppler_map_A.gif" width="300"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_B/doppler_map_B.gif" width="300"/> 
-<img src = "https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_C/doppler_map_C.gif" width = "300/>
+<img src = "https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map_C/doppler_map_C.gif" width = "300"/>
 </p> 
 
 <p align="center"> 
