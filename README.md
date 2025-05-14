@@ -26,7 +26,7 @@ Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and
 
 
 Equivalent width versus Doppler velocity for sufield A [left panel], subfield B [middle panel] and subfield C [right panel]. 
-For subfield A and B, a mask has been applied where pixels with higher intensity than $I_\text{FOV, min}/2$ are pink, otherwise they are grey. For sufield C, no pixels are color-coded.
+For subfield A and B, a mask has been applied where pixels with higher intensity than $\frac{I_\text{FOV, max}}{2}$ are pink, otherwise they are grey. For sufield C, no pixels are color-coded.
 <p align="center"> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_A/ew_doppler_mask_A.gif" width="300"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_B/ew_doppler_mask_B.gif" width="300"/> 
 <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_C/ew_doppler_C.gif" width="300"/> 
