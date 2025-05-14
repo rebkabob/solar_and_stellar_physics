@@ -18,7 +18,7 @@ Intensity maps of the target sunspot. The full FOV [upper left panel] covers 29.
 </p> 
 
 
-Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and subfield C [right panel].
+Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and subfield C [right panel]. Negative velocities (blue) correspond to downflows and positive velocoties correspond to upflows.
 
 <p align="center"> 
  <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/doppler_map/doppler_map.gif"/>
@@ -26,5 +26,6 @@ Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and
 
 
 <p align="center"> 
-<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_A/ew_doppler_A.gif" width="400"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_B/ew_doppler_B.gif" width="400"/> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_A/ew_doppler_mask_A.gif" width="400"/> <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_mask_B/ew_doppler_mask_B.gif" width="400"/> 
+<img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/ew_doppler_C/ew_doppler_C.gif" width="400"/> 
 </p> 
