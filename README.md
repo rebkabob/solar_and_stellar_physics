@@ -17,6 +17,11 @@ Intensity maps of the target sunspot. The full FOV [upper left panel] covers 29.
  <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/intensity_A_B_C/intensity_A_B_C.gif"/>
 </p> 
 
+<p align="center"> 
+ <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/SDOHMI_magnetogram/SDOHMImagnetogram.gif" width="400"/>
+ <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/SDOHMI_continuum/SDOHMIcontinuum.gif" width="400"/>
+</p> 
+
 
 Doppler velocity maps for subfield A [left panel], subfield B [middle panel] and subfield C [right panel]. Negative velocities (blue) correspond to downflows and positive velocoties correspond to upflows.
 
