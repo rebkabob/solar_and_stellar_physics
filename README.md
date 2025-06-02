@@ -18,8 +18,7 @@ Intensity maps of the target sunspot. The full FOV [upper left panel] covers 29.
 </p> 
 
 <p align="center"> 
- <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/SDOHMI_magnetogram/SDOHMImagnetogram.gif" width="400"/>
- <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/SDOHMI_continuum/SDOHMIcontinuum.gif" width="400"/>
+ <img src="https://github.com/rebkabob/solar_and_stellar_physics/blob/main/figures/SDOHMI/SDOHMI.gif"/>
 </p> 
 
 
